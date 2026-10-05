@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0485-max-consecutive-ones) |
 ## String
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0001-two-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1796-second-largest-digit-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

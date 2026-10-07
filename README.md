@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0485-max-consecutive-ones) |
 ## String
 |  |
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

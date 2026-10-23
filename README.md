@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

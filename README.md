@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0627-swap-sex-of-employees) |
 | [1251-average-selling-price](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1757-recyclable-and-low-fat-products) |

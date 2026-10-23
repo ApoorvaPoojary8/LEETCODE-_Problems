@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0595-big-countries) |
+| [0607-sales-person](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/0619-biggest-single-number) |
 | [1251-average-selling-price](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ApoorvaPoojary8/SQL-50/tree/master/1280-students-and-examinations) |
